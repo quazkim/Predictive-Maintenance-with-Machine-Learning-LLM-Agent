@@ -23,6 +23,7 @@ venv/
 archive/
 *.mat
 features_dataset.csv
+features_multiload.csv
 *.pkl
 
 # Notebooks
